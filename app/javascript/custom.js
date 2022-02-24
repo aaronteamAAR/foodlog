@@ -1,0 +1,1 @@
+console.log(window.prompt("Are you sure"));
